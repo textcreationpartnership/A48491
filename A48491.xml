@@ -1,0 +1,366 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the King, at His Majesties free-chappel of Windsor, June 13, 1680 by John Lambe ...</title>
+            <author>Lambe, John, 1648 or 9-1708.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48491</idno>
+            <idno type="STC">Wing L220</idno>
+            <idno type="STC">ESTC R18056</idno>
+            <idno type="EEBO-CITATION">12868301</idno>
+            <idno type="OCLC">ocm 12868301</idno>
+            <idno type="VID">94767</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48491)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94767)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 985:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the King, at His Majesties free-chappel of Windsor, June 13, 1680 by John Lambe ...</title>
+                  <author>Lambe, John, 1648 or 9-1708.</author>
+               </titleStmt>
+               <extent>35 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Walter Kettilby ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:94767:1" rendition="simple:additions"/>
+            <p>A SERMON Preached before the KING, At His MAJESTIES Free-Chappel of WINDSOR, <hi>J<g ref="char:V">Ʋ</g>NE</hi> 13. 1680.</p>
+            <p>By <hi>JOHN LAMBE,</hi> M. A. Chaplain in Or<g ref="char:EOLhyphen"/>dinary to His MAJESTY.</p>
+            <p>
+               <hi>Publiſhed by His Majeſties ſpecial Command.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Walter Kettilby,</hi> at the Biſhops Head in S. <hi>Paul</hi>'s Church-yard. MDCLXXX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:94767:2"/>
+            <pb n="3" facs="tcp:94767:2"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Mat. 16.26.</hi>
+                  </bibl>
+                  <p>What is a Man profited if he ſhall gain the World, and loſe his Soul?</p>
+               </q>
+            </epigraph>
+            <p>TO purſue the perfection of our Na<g ref="char:EOLhyphen"/>tures, or to govern the courſe of our Converſations with reference to ſome ultimate End, or chief Good, is not the reſult of Diſcourſe or Reaſoning, but an im<g ref="char:EOLhyphen"/>bred Principle, which flows from the frame and conſtitution of our Natures. And it cannot be imagined that God, who doth no<g ref="char:EOLhyphen"/>thing in vain, much leſs to evil purpoſes, ſhould create this ſtrong propenſion for no other end but to deceive our hopes, to fruſtrate our en<g ref="char:EOLhyphen"/>deavours and to vex us for ever with unſatisfi<g ref="char:EOLhyphen"/>ed deſires; yea rather we may aſſure our ſelves that the Divine Goodneſs, who created the deſire, hath alſo impreſſed ſuch notices on our minds, as would direct and guide us, as it were by a Moral Inſtinct, to the knowledge and attain<g ref="char:EOLhyphen"/>ment
+<pb n="4" facs="tcp:94767:3"/>of it's proper ſatisfaction.</p>
+            <p>But this is our unhappineſs, that we our ſelves deface theſe Characters, we neglect the ſtudy of our own Natures, and raſhly deter<g ref="char:EOLhyphen"/>mine our chief good, without the conſultati<g ref="char:EOLhyphen"/>on of our beſt Capacities, our nobleſt Appe<g ref="char:EOLhyphen"/>tites. And thus we ſtray from the good we ſeek, and flee from the felicity we purſue. Our Judgment is partial, our Ends are trivial, and our Love degenerate. Riches and Honour tranſport one, ſenſual Pleaſures charm ano<g ref="char:EOLhyphen"/>ther, a third purſues Dominion; in ſhort, the World, in ſome dreſs or other, is the God, the aim, the end of the generality of Men. Till we find at laſt, by the conſtant deluſion of our hopes, that we ſought for the living among the dead, for ſecurity on a precipice, or for Happineſs in things without us. How greedily then ſhould we embrace ſuch Propoſitions, as would rectifie our Judgment, correct our er<g ref="char:EOLhyphen"/>rors, and point us infallibly to our beſt and trueſt intereſt, and to the Methods of obtain<g ref="char:EOLhyphen"/>ing it. And ſuch is the Propoſition of my Text, where Life and Death are ſet before us; whatſoever is glorious, whatſoever can be loved or hoped for, againſt all the falſe appearances of worth and beauty, againſt all that is miſera<g ref="char:EOLhyphen"/>ble,
+<pb n="5" facs="tcp:94767:3"/>wretched and abhorr'd. <hi>For what is a man profited,</hi> &amp;c.</p>
+            <p>At the one and twentieth verſe of this Chap<g ref="char:EOLhyphen"/>ter,<note place="margin">
+                  <hi>Ver.</hi> 21.</note> our Saviour began to ſhew unto his Diſci<g ref="char:EOLhyphen"/>ples, how he muſt go to <hi>Jeruſalem,</hi> and ſuffer many things, and be killed, and raiſed again the third day. S. <hi>Peter</hi> partly through ſurprize,<note place="margin">Luk. 24.21.</note> (for they knew not that theſe things ought ſo to be) partly through his love and tender af<g ref="char:EOLhyphen"/>fection to our Saviour, began to rebuke him, ſaying, <hi>be it far from thee, O Lord,</hi>
+               <note place="margin">
+                  <hi>Ver.</hi> 22.</note> 
+               <hi>this ſhall not be unto thee.</hi> But our Saviour interprets this re<g ref="char:EOLhyphen"/>buke of S. <hi>Peter,</hi> as an inſtance of his Love to the world, and improves the occaſion in<g ref="char:EOLhyphen"/>to a diſcourſe of ſelf-denyal, Ver. 24.<note place="margin">
+                  <hi>Ver.</hi> 24.</note> 
+               <hi>If any man will be my Diſciple, he muſt not only be wil<g ref="char:EOLhyphen"/>ling to part with me, but himſelf muſt take up his Croſs and follow me.</hi> He muſt be ready in mind and heart to relinquiſh all that is dear, even life it ſelf, whenſoever it ſhall ſtand in competi<g ref="char:EOLhyphen"/>tion with the Will of God, and the Salvation of his Soul; <hi>for what is a man profited,</hi> &amp;c.</p>
+            <p>Which words are an alluſion to a known Proverb, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, nothing is more precious than Life; <hi>An Eye for an Eye, and a Tooth for a Tooth, but all that a Man hath will he give for his Life.</hi> From the truth and Reaſon
+<pb n="6" facs="tcp:94767:4"/>of this proverbial compariſon, our Saviour argues the incomparable value of the Soul; for if the propriety, the inheritance of the Uni<g ref="char:EOLhyphen"/>verſe, be refuſed even to a Proverb, in Compari<g ref="char:EOLhyphen"/>ſon of Life; how much leſs ſhall the world in all it's profits, in it's beſt advantages, even life it ſelf, contend in the ballance with the Sal<g ref="char:EOLhyphen"/>vation of the Soul?</p>
+            <p>And this is all that is neceſſary to be ſaid for the Explication of the words, which of them<g ref="char:EOLhyphen"/>ſelves are an entire Propoſition, and do plain<g ref="char:EOLhyphen"/>ly aſſert this great truth, <hi>viz.</hi>
+            </p>
+            <p>That <hi>the gain of the whole World, is but an inconſi<g ref="char:EOLhyphen"/>derable acquiſition, in compariſon of the Salvation of the Soul.</hi> Or,</p>
+            <p>
+               <hi>The loſs of the Soul is a greater evil than can be recompenced by the gain of the whole world.</hi>
+            </p>
+            <p>For the clearer illuſtration of which truth, I ſhall diſpoſe my diſcourſe into this method.</p>
+            <p n="1">1. I ſhall impartially repreſent the profits of the world, with the nature, the quality, and the bounds of his advantage who ſhall gain them.</p>
+            <p n="2">2. I ſhall conſider and deſcribe the Soul in all it's capacities and intereſts, and from thence deter<g ref="char:EOLhyphen"/>mine what it is to ſave, and what to loſe the Soul.</p>
+            <p n="3">3. And laſtly, I ſhall compare theſe Intereſts together, by unqueſtionable Meaſures and
+<pb n="7" facs="tcp:94767:4"/>Rules of Profit and Loſs, that from thence it may appear, how contemptible an intereſt he hath eſpouſed, who to gain the world ſhall loſe his Soul.</p>
+            <p>Firſt, I ſhall impartially repreſent the profits of the world, with the nature, the quality, and bounds of his advantage who ſhall gain them.</p>
+            <p>The propoſal, or preference of the Soul, as a better intereſt, neither denies nor exte<g ref="char:EOLhyphen"/>nuates the worth of temporal things, ſimply. But, on the contrary, a juſt and proper value, in it's place and kind, is here ſuppoſed, and muſt be allowed to the World, as a foundati<g ref="char:EOLhyphen"/>on of Compariſon. For if the world, and all it's intereſts, were ſimply and intrinſically e<g ref="char:EOLhyphen"/>vil, the gain of the World and the loſs of the Soul would be the ſelf ſame thing numerically, and ſo the Compariſon would be moſt abſurd. It remains therefore as the granted Queſtion of the Text, that the gain of the World is a real, ſubſtantial good in its place and kind. (And poſſibly Religion has been much enda<g ref="char:EOLhyphen"/>maged by an indiſcreet propoſal of the ſeverer duties of ſelf-denyal, ſimply, which are only required upon particular reaſons, and under emergent circumſtances.)</p>
+            <p>By the World then we ſhall underſtand
+<pb n="8" facs="tcp:94767:5"/>whatſoever is without us, whatſoever is apt to gratifie our Senſitive Appetites, and render our natural lives eaſie and deſirable. It is,</p>
+            <p n="1">1. A Negation of natural Evils, of Perils, Anxiety, Poverty, Slavery, Diſgrace and Pain.</p>
+            <p n="2">2. The Poſſeſſion of the contrary goods, of ſafety, liberty, eaſe, dominion, pleaſure, honour, plenty, ſtrength, and friends.</p>
+            <p n="3">3. Health, or the vigour of thoſe natural appe<g ref="char:EOLhyphen"/>tites which are gratified by theſe enjoyments, and the pleaſures ariſing thereupon. This is the nature, the quality, and bounds of his ad<g ref="char:EOLhyphen"/>vantage who ſhall gain the world.</p>
+            <p>But all theſe intereſts, eſpecially in their ut<g ref="char:EOLhyphen"/>moſt meaſures, if they were ever purſued, yet were they never obtained by one Man. The Wiſdom therefore of our Saviour in putting the queſtion to the utmoſt poſſibility, <hi>If he ſhall gain the whole World,</hi> is very obſervable, becauſe it takes in all the Circumſtances which any man, of whatſoever State, or Place, can poſſibly be under: And anticipates the flatte<g ref="char:EOLhyphen"/>ries of the greateſt Fortune: By gaining the World then, paticular Perſons are to under<g ref="char:EOLhyphen"/>ſtand ſuch portions of theſe intereſts as are proper to the place we fill, or as we may rea<g ref="char:EOLhyphen"/>ſonably propoſe to our ſelves, under our cir<g ref="char:EOLhyphen"/>cumſtances,
+<pb n="9" facs="tcp:94767:5"/>and in our Stations.</p>
+            <p>Now that theſe enjoyments, theſe advan<g ref="char:EOLhyphen"/>tages of natural Life, are good in their own Nature, and a real profit to the Poſſeſſors, will appear, if we conſider theſe two things.</p>
+            <p n="1">1. The nature and original Reaſon of hap<g ref="char:EOLhyphen"/>pineſs. What other Rules or directions have we, to determine our Judgment of Good and Evil, but the natural neceſſities, ſenſations, and deſires of men. According to the account of the beſt Philoſophers, <hi>Bonum eſt quod cui<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> con<g ref="char:EOLhyphen"/>venit,</hi>
+               <note place="margin">Ariſt. Ith.</note> 
+               <hi>Voluptas eſt principium boni.</hi> Convenience, Pleaſure, or the ſatisfaction of Appetites, is the Principle of Good. But the eſſential capacities of Humane Nature are Senſitive and An<g ref="char:EOLhyphen"/>nimal, as well as Religious and Intellectual. The Divine Principle of Religion, Reflection, and Underſtanding, is lodg'd in an Earthly body,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Por<g ref="char:EOLhyphen"/>phyr. in vitu Pyth.</note> and ſent into a World ſurrounded with the proper ſatisfactions of every deſire, and endowed with Organs of the quickeſt ſenſe. To determine therefore the happineſs of ſuch a Being, ſo mixt and compoſed of a corporal and angelick nature, by the perfections on<g ref="char:EOLhyphen"/>ly of his Soul, without proviſion for the pleaſures of the natural Life, is an imperfect unphiloſophical account. For in whomſoever
+<pb n="10" facs="tcp:94767:6"/>the Appetites of the body are ſtifled, or exter<g ref="char:EOLhyphen"/>minated, there is diſeaſe, and an unnatural mutilation; and in whom they remain un<g ref="char:EOLhyphen"/>gratified, there muſt be dolour and uneaſi<g ref="char:EOLhyphen"/>neſs. 'Tis true, the improvements of the Mind, and a good Conſcience, are an abundant ſatis<g ref="char:EOLhyphen"/>faction for the want of temporal Enjoyments, (as we ſhall diſcourſe anon) but we ſpeak not now comparatively, but of things as they are in their own Natures; and yet even a compen<g ref="char:EOLhyphen"/>ſation is a ſatisfaction for ſomething that is wanting, and implies either a fault, or an im<g ref="char:EOLhyphen"/>perfection. There muſt be therefore a ſtrict Philoſophick Good in the things of the World, conſider'd ſimply, in as much as they contri<g ref="char:EOLhyphen"/>bute to the pleaſure of our being, and are the proper ſatisfactions of eſſential deſires.</p>
+            <p n="2">2. Neither is this all, but as the world hath a proper good in its own Nature, ſo are we obliged to eſteem and value it by the Law of God. It was God that made the Spirits ſo ſub<g ref="char:EOLhyphen"/>tile, the Nerves ſo ſenſible, the ſeveral amabi<g ref="char:EOLhyphen"/>lities in the Object, and the inclination in the Faculty, not to betray us into Evil, but to delight us with the dominion he hath given us of the world. Such Pleaſures and Enjoy<g ref="char:EOLhyphen"/>ments therefore, as proceed from theſe de<g ref="char:EOLhyphen"/>ſires,
+<pb n="11" facs="tcp:94767:6"/>as theſe deſires proceed from God and Nature; Reaſon, without Revelation, would inſtruct us to be good, and innocent. But if we conſider the teſtimony which God himſelf hath given of them, the queſtion will be with<g ref="char:EOLhyphen"/>out diſpute: Who, after a ſtrict review of his ſix days work, pronounced of the whole Crea<g ref="char:EOLhyphen"/>tion, <hi>that it was very good;</hi>
+               <note place="margin">Gen. 1.</note> and who out of his eſpecial favour to his own Image, put the man whom he had formed into the Garden of Paradiſe; and who, laſtly, allures us to Obedi<g ref="char:EOLhyphen"/>ence by the promiſe of theſe temporal rewards.<note place="margin">Gen. 2.</note> Both the negation of every natural Evil, and the poſition of every natural Good, of Rich<g ref="char:EOLhyphen"/>es and Honour, of Safety, Preferment,<note place="margin">1 Sam. 2.30, Pſ. 21.5.22.4.10.3.</note> Suc<g ref="char:EOLhyphen"/>ceſs and Reputation, are all promiſed by God, as Bleſſings and Rewards.<note place="margin">Iſa. 32.17.</note> And in the Goſpel of our Saviour, though the clear Revelation of eternal Life is ſuch an invincible motive as to which nothing can be added; yet as a col<g ref="char:EOLhyphen"/>lateral encouragement to thoſe,<note place="margin">Mat. 6.33.</note> who ſhall <hi>ſeek the Kingdom of God and the righteouſneſs thereof, in the firſt place,</hi> all things elſe are promiſed to be added to them. This, ſays <hi>Plutarch,</hi> is the foundation of devotion, truſt, and confidence in God, that we believe he Governs the world,<note place="margin">Plut. de Su<g ref="char:EOLhyphen"/>perſt.</note> and that proſperity is of him.</p>
+            <pb n="12" facs="tcp:94767:7"/>
+            <p>Wherefore then, ſince the things of the world agree with the Philoſophy of good in general, and are deſign'd, by the wiſdom of God, to entertain our ſenſitive inferiour faculties, and are promiſed, by his goodneſs, as bleſſings and rewards; we cannot but conclude, that the Poſſeſſions of the world are a ſubſtantial good in their own Natures; though of infe<g ref="char:EOLhyphen"/>riour place and kind.</p>
+            <p>But the Objections drawn from ſuch paſſa<g ref="char:EOLhyphen"/>ges of our Saviour as inſinuate the danger of Riches, and preſcribe the ſtricteſt Self-denyal, the moſt entire reſignation of our ſenſual Appetites, appear ſo plauſible at the firſt ſight, that we muſt not wholly paſs them over. Yet the anſwer will be ſhort and eaſie; becauſe our Saviour himſelf hath taught us by his own interpretation, to put conſtructions upon all ſuch Precepts and Poſitions: For when himſelf had declared, <hi>Mark</hi> 10.24. <hi>That it is eaſi<g ref="char:EOLhyphen"/>er for a Cammel to go through the Eye of a Needle, than for a rich man to enter into the Kingdom of Heaven:</hi> He preſently explains himſelf by thoſe who truſt in Riches:<note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 26.</note> Which ſhews, that the Precepts and Paſſages of this nature are not intended to be underſtood literally; but in a ſenſe. As ſometimes in Compariſon:
+<pb n="13" facs="tcp:94767:7"/>
+               <hi>Lay not up for your ſelves treaſure on Earth: Take no thought for to morrow.</hi>
+               <note place="margin">Mat. 6.</note> Sometimes with reſpect to emergent Circumſtances, as when the Apoſtles encouraged the Diſciples to ſell their Poſſeſſions for the relief of the perſecuted Brethren. Sometimes perſonally, ſometimes habitually: <hi>If thou wilt be perfect, ſell all that thou haſt, and give to the poor;</hi> and, <hi>whoſoever will be my diſciple let him deny himſelf, and take up his croſs and follow me.</hi> Be ready in mind and heart to relinquiſh all whenſoever it ſhall be neceſſary. And that thus the Apoſtles un<g ref="char:EOLhyphen"/>derſtood our Saviour, is evident from that of S. <hi>Peter, Luk.</hi> 18. Who glories of himſelf, and the other Apoſtles that they had perform<g ref="char:EOLhyphen"/>ed theſe duties; <hi>we have left all, and followed thee:</hi> and yet S. <hi>Peter</hi> kept his Houſe at <hi>Capernaum<g ref="char:punc">▪</g>
+               </hi> and the Apoſtles retained the Propriety and Poſſeſſion of their Ships and Houſes.</p>
+            <p>To conclude this, the nobleſt Science is to know ones ſelf, to keep the mean, to preſerve the vigour, and gratifie the deſires of all our Faculties. <hi>Cato</hi>'s beſt Emperour, was he who ſhould govern, not deſtroy, his Appetites. Away then with all ſuch ſuperſtitious Doctrines as preſcribe us to <hi>live upon intuitive entertain<g ref="char:EOLhyphen"/>ments, to hide our ſelves from the Sun,</hi>
+               <note place="margin">Coll. Gran in vita R. P. Th. Sanchez.</note> 
+               <hi>or to
+<pb n="14" facs="tcp:94767:8"/>dwell in a pleaſant Garden, but never touch a Flower.</hi> Which indeed is ſo far from the per<g ref="char:EOLhyphen"/>fection of a Chriſtian, or the deſign of my Text, that it is the diſeaſe of the mind, ſullen, moroſe, diſtruſtful, impotent. But on the o<g ref="char:EOLhyphen"/>ther hand, to eſteem the world above its ap<g ref="char:EOLhyphen"/>pointed value, or to conſider it as our Chief Good, is the moſt pernicious Folly, the great<g ref="char:EOLhyphen"/>eſt Calamity which can befall us: which leads me, in the ſecond place,</p>
+            <p n="2">2. To conſider and deſcribe the Nature, the Ca<g ref="char:EOLhyphen"/>pacities and Intereſts of the Soul; which the Text prefers to our care and choiſe, rather before, and whatſoever becomes of the Profits of the World.</p>
+            <p>And we ſhall eaſily acknowledge, that we cannot comprehend the eſſence of the Soul, or the manner of it's operation, volition and underſtanding, it is inconſiſtent with the diſad<g ref="char:EOLhyphen"/>vantages of our preſent ſtate. But by the acts, effects, and inward ſenſations of the mind, we certainly know, that it is neither Air, nor Fire, nor Blood, nor moving Numbers, but as it is defin'd by <hi>Porphyrie,</hi>
+               <note place="margin">Se<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a Being immaterial, ſelf-moving, and immortal, a Principle of an independent, in<g ref="char:EOLhyphen"/>tellectual life, of Underſtanding, Judgment, Reflection, Conſcience, Goodneſs, Providence,
+<pb n="15" facs="tcp:94767:8"/>acting as God freely, and for the ſake of Ends. And the Objects about which theſe Faculties are exerciſed, and with which they are enter<g ref="char:EOLhyphen"/>tain'd, are the excellencies of the Divine Nature, to ſtudy and contemplate; the Divine Perfecti<g ref="char:EOLhyphen"/>ons, by which, as by a Rule, to judge, and govern our eſtimate of things; the works of Creation and Providence, the Government, the Wiſdom, and the Hiſtories of the World, to improve our minds with uſeful knowledge; divers Relations to God, and to one another, for the exerciſe of Devotion, Wiſdom, Provi<g ref="char:EOLhyphen"/>dence, Love and goodneſs.</p>
+            <p>This is the Nature, theſe are the Capacities, the Acts and Exerciſes of the Souls. From whence we collect, that the higheſt intereſt, or the perfection of the Soul, (conſidered in its natural capacities,) conſiſts in the ſtrength and vigour of theſe ſenſations and deſires,<note place="margin">Simpl. in Epict.</note> in the habitual exerciſe of the faculties with their pro<g ref="char:EOLhyphen"/>per objects; in underſtanding clearly, in judging diſcreetly, in loving univerſally, in governing our lives wiſely, in ſubduing our paſſions, in preſerving the dominion of our Rea<g ref="char:EOLhyphen"/>ſon. It follows therefore, that to loſe the Soul (according to this Original, ſimple ſenſe) is to vitiate or deſtroy theſe Moral Appetites, and
+<pb n="16" facs="tcp:94767:9"/>by a conſtant converſation with ſenſual Ob<g ref="char:EOLhyphen"/>jects, to be wholly govern'd, to underſtand, to judge, eſteem and love according to them.</p>
+            <p>And methinks the naked repreſentation of this loſs, is of it ſelf ſufficient to convince us, that the World, with all it's Profits, can be no Price for ſo ineſtimable a Jewel as the ſafe<g ref="char:EOLhyphen"/>ty, no ſatisfaction for ſo great a calamity, as the loſs of the Soul. For if we conſider a a man without Knowledge, without Wiſdom, without Goodneſs; there is nothing left, whatſoever his circumſtances in the World may be, to commend him to others, or reconcile him to himſelf. If his Paſſi<g ref="char:EOLhyphen"/>ons are tame, he is the pity and contempt, if they rage, the regret and deteſtation of Mankind. He is a diſeaſed, imperfect Crea<g ref="char:EOLhyphen"/>ture, the ignoble parts are ſwell'd to an unna<g ref="char:EOLhyphen"/>tural fullneſs, whilſt the noble are waſted and ſhrivell'd into nothing. He hath loſt the pleaſures of a healthful Conſtitution, the deli<g ref="char:EOLhyphen"/>cate entertainments, the pure and unmixt de<g ref="char:EOLhyphen"/>lights which flow from all the Faculties, in the exerciſe of their proper functions; and is inveſted, on the contrary, with a dull Un<g ref="char:EOLhyphen"/>derſtanding, an unſatisfied Will, tumultuary vex'd and diſcompoſed Affections.</p>
+            <pb n="17" facs="tcp:94767:9"/>
+            <p>But if this were all the loſs, ſuch is the dege<g ref="char:EOLhyphen"/>neracy of men, how few would value it? We ſhall farther therefore conſider the intereſt of the Soul, as it ſtands in the relation of a Sub<g ref="char:EOLhyphen"/>ject to God our Law-giver, who hath obliged our obedience to an Inſtitution of Religion, to a Rule of Life, with Sanctions of future Bliſs and Miſery. He then that deſpiſes Wiſdom and Goodneſs, may yet <hi>fear him who is able to deſtroy both Soul and Body in Hell.</hi> This is the loſs of the Soul emphatically, and which our Saviour principally intends, the diſpleaſure of God, the future puniſhment of our Diſobe<g ref="char:EOLhyphen"/>dience, and the loſs of our Intereſt in the Rewards of Vertue, in the Joys of Hea<g ref="char:EOLhyphen"/>ven.</p>
+            <p>And though the nature and affections, the man<g ref="char:EOLhyphen"/>ner of the reception, and conveyance of theſe Felicities, are impoſſible in our preſent State to be underſtood diſtinctly; (as it is fabulouſly re<g ref="char:EOLhyphen"/>ported of the Ghoſt of S. <hi>Jerom,</hi> that it appear<g ref="char:EOLhyphen"/>ed to S. <hi>Auſtin,</hi> writing a Tract of the fullneſs of joy in Heaven, and asked him if he could meaſure the Waters in his Fiſt, or meet out the Heaven with a Span). Yet this we know in general, that it conſiſts in the abſence of all E<g ref="char:EOLhyphen"/>vil, <hi>tears ſhall be wiped away from all Faces,</hi>
+               <note place="margin">Iſ. 25.8. 1 Cor. 15.54.</note> no
+<pb n="18" facs="tcp:94767:10"/>forbidden fruit ſhall be there to tempt us, no adverſaries to aſſault us, no impetuous deſires to moleſt us; and in the affluence of all good. Whatſoever is contained in <hi>Abraham</hi>'s <hi>boſom,</hi>
+               <note place="margin">Luk. 16. Jo. 14.2. Pſ. 16.11. 2 Cor. 4.17. 1 Cor. 2.9.</note> 
+               <hi>in the houſe of our Father,</hi> in <hi>fulneſs of Joy,</hi> in <hi>eye hath not ſeen, nor ear heard, nor can the heart of man conceive,</hi> is the felicity of that bleſſed State. Our underſtanding ſhall be perfected, in a clear diſcovery of the moſt excellent glory and lovelineſs of God, for <hi>we ſhall ſee him as he is.</hi>
+               <note place="margin">1 Jo. 3.2.</note> We ſhall then diſcern the beauty of his Holineſs, the brightneſs of his Underſtand<g ref="char:EOLhyphen"/>ing, and the largeneſs of his Love. And becauſe the Soul, in all its capacities of life and action, in judgment, choice, deſire, and love, is abſolutely govern'd by the underſtanding; Therefore our knowledge, our ſenſe of the Di<g ref="char:EOLhyphen"/>vine Perfections,<note place="margin">Rom. 8.29. Phil. 1.21.</note> ſhall of neceſſity, transform us into the ſame Nature, quicken us into the ſame life, and inveſt us in the <hi>joy of our Lord,</hi> in the ſame felicities with himſelf? Our Wills ſhall be perfect with indefective holineſs, our Affections ſhall be unalterably fixed and ra<g ref="char:EOLhyphen"/>viſhed with the ever-freſh and inexhauſtible Treaſures of his Beauty. In a word, our ſouls ſhall be ſtruck with ſuch a powerful ſenſe of his un<g ref="char:EOLhyphen"/>ſpeakable glory, his Image ſhall be ſo deeply
+<pb n="19" facs="tcp:94767:10"/>impreſs'd upon our minds, that our ſelves ſhall be changed into the likeneſs of his excellency, and entertain'd with the pleaſures of his life. Theſe are the glorious poſſibilities of the ſoul, the ve<g ref="char:EOLhyphen"/>ry privation thereof, or to <hi>be thruſt from the preſence of the Lord and the glory of his pow<g ref="char:EOLhyphen"/>er,</hi> without the puniſhment of pain, is more than enough to be contained in loſing the Soul, though a thouſand worlds were to be ſet a<g ref="char:EOLhyphen"/>gainſt it. Yet even this is not all, for the ſancti<g ref="char:EOLhyphen"/>on condemns the diſobedient to the puniſhment of pain, as well as to the puniſhment of loſs. A guilty Conſcience conſummated with wretched horror and deſpair ſhall be his Porti<g ref="char:EOLhyphen"/>tion. He ſhall be caſt into outer darkneſs,<note place="margin">Rev. 21.8. Mar. 9.43. Mat. 8.11. Rom. 2.9. Mat. 5.26. Luk. 13.28.</note> where he ſhall be ſure to find, whatſoever is contained in the vengeance of an Omnipo<g ref="char:EOLhyphen"/>tent God, who is a conſuming fire.</p>
+            <p>And thus I have impartially ſtated both the Nature and the Value, firſt of the world, then of the Soul: I proceed therefore, as I propos'd, in the laſt place,</p>
+            <p n="3">3. To compare theſe Intereſts together, by the moſt infallible Rules and Teſts of worth, that from thence it may appear how contemp<g ref="char:EOLhyphen"/>tible an intereſt he has eſpouſed, who <hi>to gain the world ſhall loſe his Soul.</hi> And amongſt thoſe
+<pb n="20" facs="tcp:94767:11"/>many reaſons of difference which might be found, I ſhall only ſelect a few which ſeem to be the moſt conſiderable. And,</p>
+            <p n="1">1. I ſhall compare them with reſpect to certainty.</p>
+            <p n="2">2. With reſpect to Fulneſs or Satisfaction of the Will.</p>
+            <p n="3">3. With reference to Duration. And there is no man but will readily acknowledge, that a certain, full, and everlaſting good is incom<g ref="char:EOLhyphen"/>parably preferable to a contingent, empty, tran<g ref="char:EOLhyphen"/>ſient intereſt.</p>
+            <p n="1">1. But firſt, the intereſt of the World is caſual and uncertain: And if as great ſucceſs in our purſuit as can be feigned, if the gain of the whole world be no advantage to him who ſhall loſe his Soul, as the Text ſuppoſes, how much more unreaſonable is it to prefer this intereſt,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Ar. in Ep.</note> conſidering the continual Flux, the fugitive nature of temporal things. <hi>He who purſues an intereſt out of his own power, courts unhappineſs,</hi> ſays <hi>Seneca.</hi> But our ſucceſs in the purſuit of the world depends up<g ref="char:EOLhyphen"/>on a train of Circumſtances,<note place="margin">
+                  <hi>Epiſt.</hi> 63.</note> which we may diſpoſe and order in our thoughts, but not command. For if we were wiſe enough, as but few are, to lay our deſigns ſubtilly, to diſpoſe
+<pb n="21" facs="tcp:94767:11"/>Inſtruments aptly, to foreſee accurately, to mind our buſineſs, and govern our paſſions ſtrictly; yet the Wiſeſt often find their Purpoſes defeated, ſome Links of the Chain are broken.</p>
+            <q>
+               <l>Quod quiſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> vitet nunquam homini ſatis</l>
+               <l>Cautum eſt in horas</l>
+               <bibl>
+                  <hi>Hor.</hi>
+               </bibl>
+            </q>
+            <p>Becauſe our condition is ſo dependent, that there is nothing brought to paſs but by the aſſi<g ref="char:EOLhyphen"/>ſtance and meditation of others, by time, and by things without our power. Where then there are ſo many free agents, purſuing their reſpective private intereſts, as it were in a tacit conflict one upon another,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Ar. in Ep.</note> there muſt be croſs events and diſappointments. This contrariety therefore of Will, the deceits of Correſpon<g ref="char:EOLhyphen"/>dents, publick Calamities, and perſonal Follies, render our ſucceſs in the world uncertain in the nature of the thing; beſides, the over-ru<g ref="char:EOLhyphen"/>ling Providence of God, who cauſes all Deſigns and Intereſts to ſerve the Ends of his Alwiſe Councils.</p>
+            <q>
+               <l>—valet ima ſummis</l>
+               <l>Mutare, &amp; inſignem attenuat Deus.</l>
+               <p>He puts down the mighty from their ſeat, and ex<g ref="char:EOLhyphen"/>alts the humble and meek.</p>
+            </q>
+            <pb n="22" facs="tcp:94767:12"/>
+            <p>But whoſoever purſues the favour of God, and the Salvation of his Soul, may (with Reverence) be certain of obtaining it: Becauſe the means and inſtruments are all within, between our ſelves and God alone. No croſs conjunction of unforeſeen Accidents can impede our pro<g ref="char:EOLhyphen"/>greſs. Deliberate Choice, and firm Reſoluti<g ref="char:EOLhyphen"/>on are infallible ſecurities of ſucceſs. But liber<g ref="char:EOLhyphen"/>ty of choice is eſſential to our Nature. Force in any ſenſe, is Neceſſity, and therefore a con<g ref="char:EOLhyphen"/>tradiction to a reaſonable Creature. It is a ſcandal to Religion and the Humane Nature, to ſuppoſe it impoſſible to Chuſe the good,<note place="margin">1 Cor. 7.34.</note> and Refuſe the Evil.<note place="margin">Boeth. de Conſ.</note> Vertue is the life, the pleaſure,<note place="margin">Amat, ſapit recte facit ani<g ref="char:EOLhyphen"/>mo quando obſe<g ref="char:EOLhyphen"/>quitur ſuo. <hi>Iſoc.</hi> a <hi>Socr.</hi>
+               </note> the rectitude of the Soul; who then but the wicked (who want Apology) can think it impoſſible to attain the perfection of our be<g ref="char:EOLhyphen"/>ing; eſpecially conſidering the great aſſiſtances which God ſo freely offers to thoſe who are ſincere, and willing to purſue this intereſt. That <hi>his holy ſpirit ſhall encourage our endea<g ref="char:EOLhyphen"/>vours,</hi>
+               <note place="margin">Jo. 14.</note> 
+               <hi>and aſſiſt our weakneſs,</hi>
+               <note place="margin">Jer. 32.39.</note> that <hi>he will give us an heart of Fleſh,</hi>
+               <note place="margin">Ez. 11.19.</note> 
+               <hi>and cauſe us to walk in his ways.</hi> And what ſhall we not do through the power of God that ſtrengthens us? That's the firſt.</p>
+            <p n="2">2. The world, if we could obtain it, is empty
+<pb n="23" facs="tcp:94767:12"/>and unſatisfying, allayed with vexations and uneaſie cares; but the favour of God, and the rewards of Heaven, are ſuch an unmixt and perfect good, as being once obtained, we can deſire no more. The formal reaſon of good, is ſatisfaction, and of evil, deſire unſatisfied. But the diſproportion is ſo great, between the world, and our innate deſires of perfect happineſs, that it is impoſſible it ſhould fill them. For the world is confin'd by the Wiſ<g ref="char:EOLhyphen"/>dom of God, and fitted only for the Service of our Earthly, limited, inferiour facul<g ref="char:EOLhyphen"/>ties: and is therefore inadaequate, both in Nature and meaſure, to the vaſt capacities, to the unbounded appetites of the mind. Whoſo<g ref="char:EOLhyphen"/>ever then ſhall fix his happineſs in the Poſſeſſions of the world, expects more form it than it can perform, and ſhall therefore be ſure to be for ever followed with croſs events and new de<g ref="char:EOLhyphen"/>ſires.<note place="margin">Creſcit indul<g ref="char:EOLhyphen"/>gens ſibi dirus hydrops nec ſi<g ref="char:EOLhyphen"/>tim pellit niſi cauſa morbi fu<g ref="char:EOLhyphen"/>gerit venis—<hi>Hor.</hi>
+               </note> For ſick and unnatural appetites are in<g ref="char:EOLhyphen"/>finite; Indulgence, in the Dropſie, doth but inflame the thirſt; the diſeaſe is within, and the deſire inſatiable. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Whatſoever the change of For<g ref="char:EOLhyphen"/>tune or Life may be they can never remove the vexations of the mind,<note place="margin">Plut. de Tranq.</note> which ariſe from falſe Opinion, ſays <hi>Plutarch;</hi> The Star is loſt we
+<pb n="24" facs="tcp:94767:13"/>ſteer an unknown courſe, and ſail in an immenſe Sea of wild and extravagant deſire: All this is na<g ref="char:EOLhyphen"/>tural and neceſſary. But beſides the diſproporti<g ref="char:EOLhyphen"/>on between the Object and the Faculty, we our ſelves create vexation to our ſelves. Our inor<g ref="char:EOLhyphen"/>dinate love of the World betrays us into fears and jealouſies, and fills us with envy and ambiti<g ref="char:EOLhyphen"/>on, which cauſe us to judge of things, not as they are in their own nature, but with reſpect to o<g ref="char:EOLhyphen"/>thers, and ſo removes our happineſs yet farther out of our own power; as <hi>Plutarch</hi> writes of <hi>Themiſtocles,</hi>
+               <note place="margin">In vita The<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>iſt.</note> that he raved and walk'd about the Streets at midnight, vexed and tormented with the triumph of <hi>Meltiades.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Inordinate deſire hin<g ref="char:EOLhyphen"/>ders even that imperfect ſatisfaction,<note place="margin">de tranq.</note> which might otherwiſe be found in the Object we purſue, as the ſame Author obſerves. Per<g ref="char:EOLhyphen"/>fect happineſs then, or full content, is not to be found in the Enjoyments of the world.</p>
+            <q>
+               <p>Nec gemmis, nec purpura ve<g ref="char:EOLhyphen"/>nale, nec auro.</p>
+               <bibl>
+                  <hi>Hor.</hi>
+               </bibl>
+            </q>
+            <p>What ſhall we ſay then? I man alone de<g ref="char:EOLhyphen"/>ſign'd
+<pb n="25" facs="tcp:94767:13"/>by God to be the ſport, the mock of Nature? Are we the only Creatures which were made for ever to purſue, but never ob<g ref="char:EOLhyphen"/>tain our happineſs? No ſurely;<note place="margin">Pſ. 63.3<g ref="char:punc">▪</g> Pſ. 16. 1 Pet. 1.8. Rom. 14.17.</note> 
+               <hi>Thou haſt made us, O Lord, for thy ſelf, and our Soul is unſatisfi<g ref="char:EOLhyphen"/>ed till it reſts in thee: Thy favour is better than Life, and at thy right hand there is fulneſs of Joy and Pleaſure.</hi> In a word, whoſoever by Vertue, and Obedience, ſhall obtain the Re<g ref="char:EOLhyphen"/>wards of Heaven, and the Love of God, are under a full enjoyment, a compleat Poſſeſſi<g ref="char:EOLhyphen"/>on of aboſolute perfect and unlimited goodneſs. For paſſionate Fondneſs, is infirmity, and there<g ref="char:EOLhyphen"/>fore incompetent to the Love of God, or the perfection of the Attribute, which conſiſts in the moſt ſubſtantial effects and operations; not only in ſhining upon us, but in making us luminous with his brightneſs; and happy in the enjoyment of his perfections, in the com<g ref="char:EOLhyphen"/>munication of his felicities.</p>
+            <p>The will, of neceſſity therefore, ſhall be pre<g ref="char:EOLhyphen"/>vented, fill'd and ſatisfied; becauſe there is no<g ref="char:EOLhyphen"/>thing farther to be deſird; for all the good which is in any Object, is derived from this Original, ſimple good, which we ſhall then enjoy. And this is no <hi>Platonick</hi> rapſodie, but the neceſſary
+<pb n="26" facs="tcp:94767:14"/>effects of the Divine Love, and agrees with the ſober experience of Pious Men, whoſe Souls enjoy of full content, and eaſineſs in God, though the methods of conveyance are inexplicable. That's the Second.</p>
+            <p n="3">3. Thirdly, and laſtly, If we were ſure to gain the world, and if it were poſſible to be fully ſatisfied in the acquiſition; yet is our poſſeſſion uncertain, our enjoyment ſhort; but the Intereſt of the Soul is everlaſting.</p>
+            <p>No preſent State, whatſoever it may be, can denominate a Man happy: A taſte of happineſs without continuance, is but a mockery, a vexation. It is propriety, and ſta<g ref="char:EOLhyphen"/>bility which commend an Intereſt, and paſs it into the relation of Felicity.</p>
+            <q>
+               <l>—<g ref="char:V">Ʋ</g>ltima Sempter</l>
+               <l>Expectanda dies. —<note place="margin">Ovid.</note>
+               </l>
+            </q>
+            <p>But the natural condition of Earthly things is frail and fugitive: All thoſe Reaſons which render it ſo difficult to gain them, render it as hard to preſerve them when obtained. Perſonal Follies, publick Calamities, ſudden accidents, fraud and avarice, Sin and Death,
+<pb n="27" facs="tcp:94767:14"/>do all oppoſe the ſecurity of our preſent ſtate. But nothing can more diſparage the value of the world, than this continual motion, flux, and change, to which it is liable; becauſe the loſs of what we once poſſeſt is a greater cala<g ref="char:EOLhyphen"/>mity than never to enjoy.<note place="margin">Turk. Hiſt. in Regn. Baj.</note> For <hi>Bajazet</hi> to change his <hi>Seraglio</hi> for a Cage, for <hi>Valerian</hi> to become the Foot-ſtool of his Enemy:<note place="margin">Caſſio dor. Plut. in vit. Emil.</note> for <hi>Per<g ref="char:EOLhyphen"/>ſeus</hi> King of <hi>Macedon,</hi> but the fourth from <hi>A<g ref="char:EOLhyphen"/>lexander,</hi> to be led in Chains before the Tri<g ref="char:EOLhyphen"/>umphal Chariot of <hi>P. Emilius,</hi> were greater Calamities than never to have been happy.</p>
+            <p>But if our poſſeſſions of the World were firm, and ſtable in their Nature, our enjoy<g ref="char:EOLhyphen"/>ment, howſoever, would be ſhort and tranſi<g ref="char:EOLhyphen"/>ent, becauſe our own foundation is in the duſt; our life is uncertain, and our age as no<g ref="char:EOLhyphen"/>thing.<note place="margin">Job. 4.24. 2 Pet. 14.2.19.</note> No period of life, no ſtate or quality, is ſecure a moment from the arreſt of death.</p>
+            <q>
+               <p>Omnes eodem cogimur, <hi>&amp;c.</hi>
+               </p>
+               <bibl>
+                  <hi>Hor.</hi>
+               </bibl>
+            </q>
+            <p>We are all under the ſame neceſſity, all our deſtinies are hurſtled in the ſame Urn; ſooner or later we ſhall all be carried into Eter<g ref="char:EOLhyphen"/>nal exile. How many have we our ſelves ob<g ref="char:EOLhyphen"/>ſerved,
+<pb n="28" facs="tcp:94767:15"/>who in the height of their Pleaſures, in the vigour of their age, in the midſt of their hopes have been ſuddenly ſnatched a<g ref="char:EOLhyphen"/>way.</p>
+            <q>
+               <l>Tu ſecanda marmora</l>
+               <l>Locas ſub ipſum fumus.</l>
+               <bibl>
+                  <hi>Hor.</hi>
+               </bibl>
+            </q>
+            <p>The poliſhed Marbles we are ſo buſily de<g ref="char:EOLhyphen"/>ſigning into a magnificent Seat, of a ſudden are become the Ornaments of our Tomb.</p>
+            <p>And it muſt needs be very terrible to thoſe who have no other end or Intereſt, but their Poſſeſſions in the world, to conſider how ſud<g ref="char:EOLhyphen"/>denly they may, how ſoon they ſhall be depriv<g ref="char:EOLhyphen"/>ed of all their hope, of all their good. This conſideration depreſſes the value of the world into vanity it ſelf, and in a manner ballanceth the inequalities of Fortune, and makes it no ve<g ref="char:EOLhyphen"/>ry great matter whether we derive from a Scep<g ref="char:EOLhyphen"/>ter, or a Shepheards Crook.</p>
+            <p>
+               <hi>Lay not up for your ſelves then Treaſures upon Earth, where Moth and Ruſt can corrupt, or Thief break through and ſteal; but by patient continuance in well doing, ſeek for Glory, Immortality, and Eternal life.</hi> Purſue the intereſt of the Soul which is everlaſting.</p>
+            <pb n="29" facs="tcp:94767:15"/>
+            <p>Yet ſuch is the degeneracy of men, that we are willing to believe, and are content with a ſtate of non-exiſtence, of eternal night, rather than govern our lives on Earth, as may con<g ref="char:EOLhyphen"/>ſiſt with the hopes of a bleſſed Immortality.</p>
+            <p>But it is impoſſible to extirpate the Ex<g ref="char:EOLhyphen"/>pectation of Mankind. The independent Powers of the Soul, the judgment of Con<g ref="char:EOLhyphen"/>ſcience, the conſent of Nations, will be always ſuch irrefragable Teſtimonies of a future State, as we ſhall never be able to Subdue. Beſides the poſitive Revelation of God,<note place="margin">Heb. 5.9.13.14. Luk. 16.9.</note> that <hi>the Spi<g ref="char:EOLhyphen"/>rit ſhall return to him that gave it,</hi> that all <hi>the Joys of Heaven,</hi> which we now deſcribed, <hi>ſhall endure for ever,</hi> that the <hi>City is continuing,</hi> the <hi>Houſe eternal,</hi> and <hi>the Crown ſhall never fade away.</hi>
+            </p>
+            <p>We ſhall then be the Treaſure, the Chil<g ref="char:EOLhyphen"/>dren, and the Friends of God; whoſe in<g ref="char:EOLhyphen"/>finite Perfections ſhall be always preſent, and we ſhall always be in a capacity of Enjoyment. No age ſhall enfeeble our percipient Faculties, a thouſand years ſhall be but as a day. No Reaſons of Sin, of Puniſhment, or of Tryal (and there are no other) ſhall interpoſe to diſ<g ref="char:EOLhyphen"/>continue or abate the Pleaſures of this happy life. But if we ſhall neglect this everlaſting
+<pb n="30" facs="tcp:94767:16"/>happineſs, the loſs or puniſhment of the Soul, in the ſenſe I explained it, ſhall be eternal too. <hi>What then ſhall it profit a man to gain the world, and be caſt into ſire unquenchable, where the Worm ſhall never dye.</hi>
+            </p>
+            <p>But if we ſhould ſuppoſe it would continue but a thouſand years, or half the time, the Ar<g ref="char:EOLhyphen"/>gument is ſtrong enough, and would bear the zeal of our Saviour in this compaſſionate Expoſtulation of my Text, <hi>What ſhall it profit a man, &amp;c</hi> But there is never a plain ſyllable in the book of God, which favours the purga<g ref="char:EOLhyphen"/>tion, or Annihilation of Souls. And there is nothing more evident than that the Spi<g ref="char:EOLhyphen"/>rit of God intends we ſhould believe the loſs or puniſhment to be everlaſting; becauſe he hath choſen the moſt appoſite phraſes which can be imagin'd to expreſs an unlimit<g ref="char:EOLhyphen"/>ed Eternity: <hi>The worm ſhall never dye; the Fire ſhall never be quenched,</hi>
+               <note place="margin">Mat. 3.12. Rev. 20.10. Luk. 3.17.</note> 
+               <hi>and the ſmoak ſhall aſcend for ever and ever. What then ſhall it profit a man to gain the world,</hi> a caſual, empty, tranſient Intereſt; <hi>and loſe his Soul,</hi> a certain, full, and everlaſting good?</p>
+            <p>Now the uſe of this diſcourſe is Infinite, be<g ref="char:EOLhyphen"/>cauſe it is concern'd in every Action of our
+<pb n="31" facs="tcp:94767:16"/>lives; it Directs our Choice, governs our Will, and regulates our Affections. But I am afraid I have already treſpaſſed upon your patience, I ſhall therefore conſider but one Inference, and ſo conclude: namely this,</p>
+            <p>That the gain of the world,<note place="margin">Inf.</note> with the ſafety of the Soul, is the moſt perfect, happy ſtate. That Riches, and Honour, with Vertue and Piety, render a man more exactly happy, than either without the other. Which indeed is rather a part of the Doctrine it ſelf, than a Deduction from it: For, <hi>What ſhall it profit a man to gain the World, and loſe his Soul,</hi> ſeems to allow the Poſſeſſions of the World, with the ſafety of the Soul, to be the beſt advan<g ref="char:EOLhyphen"/>tage, the moſt happy ſtate. And,</p>
+            <p n="1">1. In general, becauſe our whole ſelves, in all our Capacities, may be Filled and Satisfied. The craving deſire or emptineſs of any Facul<g ref="char:EOLhyphen"/>ty,<note place="margin">Status, omni<g ref="char:EOLhyphen"/>um bonorum aggregatione, perfectus. Boeth.</note> is Miſery in its degree; but chiefly becauſe of the kind agreement, the mutual aſſiſtance and miniſtration of theſe ſeveral Intereſts, to the nouriſhment and increaſe, to the exerciſe and enjoyment of each other. The Rich and Ho<g ref="char:EOLhyphen"/>nourable have great Opportunities of Know<g ref="char:EOLhyphen"/>ledge and Vertue above other men. Their
+<pb n="32" facs="tcp:94767:17"/>time is their own, their minds are eaſie, they may converſe with the beſt Company, and ſtudy the beſt Authors for the improvement of their Minds. And they are always provi<g ref="char:EOLhyphen"/>ded with the neceſſary Requiſites, the chief Inſtruments in the Practice and Exerciſe of Vertue. For the Government of our Paſſi<g ref="char:EOLhyphen"/>ons, the Regulation of our Appetites and Af<g ref="char:EOLhyphen"/>fections under our Poſſeſſions and Enjoy<g ref="char:EOLhyphen"/>ments of the World,<note place="margin">Sen. Epiſt.</note> are the proper Subjects of our Vertue and Victory. A poor Man's Sphere is narrow and confin'd, his Religion is negative, and his Vertue chiefly in his Will: But the Rich may fulfill the whole Law, redeem Captives, relieve the Oppreſſed, viſit the Fatherleſs, patronize the Poor, bleſs the World. Indeed, there is ſcarce a Vertue, Per<g ref="char:EOLhyphen"/>ſonal, Political, or Divine, but requires the preſence of Earthly Things as the neceſſary In<g ref="char:EOLhyphen"/>ſtruments of its Practice.<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Hier. in Aur. Car.</note> And hence <hi>Pytha<g ref="char:EOLhyphen"/>goras</hi> himſelf commends a due regard of our Worldly Intereſt, becauſe it helps the Soul la<g ref="char:EOLhyphen"/>bouring after Vertue.</p>
+            <p>And thus to uſe the World for the intereſt of the Soul, for the exerciſe and increaſe of Vertue, is the beſt Method we can poſſibly
+<pb n="33" facs="tcp:94767:17"/>conſult for the moſt pure and pleaſant Enjoy<g ref="char:EOLhyphen"/>ment of the World it ſelf.</p>
+            <p>For Religion ſtops the Fountain of all the Allays and Evils of the World; it rectifies our Judgment, and reſtrains our Paſſions, it ac<g ref="char:EOLhyphen"/>quaints us with our Imperfections, and delivers us from importunate deſires, from Envy and Ambiti<g ref="char:EOLhyphen"/>on, from the anxious Fears of Chance and Death; which flow from falſe Opinion, and ever inſinuate themſelves where Vertue is not prepoſſeſs'd. It is indeed the only Ballaſt of Proſperity.</p>
+            <p>And as it ſeparates the Ills, ſo it improves and meliorates whatſoever is good and plea<g ref="char:EOLhyphen"/>ſant in the World. It reſtores us to our ſelves, and gives us an abſolute Dominion over what we poſſeſs. It preſerves a healthful Conſtitu<g ref="char:EOLhyphen"/>tion, and, by a mixture of different Entertain<g ref="char:EOLhyphen"/>ments, it prevents that loathing of Pleaſures, which ariſes from the conſtant preſence of them: It is a great improvement and addition of Honour; it gives reality to Titles, and makes inconſtant Fame ſtable and eternal.</p>
+            <q>
+               <l>Creſcit occulto velut arbor aevo,</l>
+               <l>Fama Marcelli, micat inter omnes</l>
+               <l>Julium ſidus, velut inter ignes</l>
+               <l>Luna minores.</l>
+               <note place="margin">Hor.</note>
+            </q>
+            <pb n="34" facs="tcp:94767:18"/>
+            <p>
+               <hi>The practice of Vertue,</hi>
+               <note place="margin">Epiſt.</note> ſays <hi>Seneca, gives a lu<g ref="char:EOLhyphen"/>ſtre to a man, and makes him ſhine as light. Quantum Dii boni decoris, quantum ponderis ad<g ref="char:EOLhyphen"/>derint! What weight, what beauty do they add? When we meet him we ſhall ſtart and fall back, as at the preſence of a God, and ſilently pray that it may be ſafe to look upon him, and with a trembling voice we ſhall be ready to ſay,</hi> (ſays he) <hi>with</hi> Virgil,</p>
+            <q>
+               <l>— Nam<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> haud tibi vultus</l>
+               <l>Mortalis, nec vox hominem ſonat—</l>
+               <p>The Voice the Countenance is more than Humane.</p>
+            </q>
+            <p>To conclude, Let us remember that Chri<g ref="char:EOLhyphen"/>ſtian ſelf-denyal is but the reduction of our ſelves to our ſelves, and a melioration of our preſent ſtate. That all forbidden Appetites are Artificial and Unnatural, the Effects of Diſ<g ref="char:EOLhyphen"/>eaſe, and the Symptoms of Death. That there is no competition, thanks be to God, at the preſent, between the ſafety of our Souls, and the preſervation of our Eſtates in the active li<g ref="char:EOLhyphen"/>teral ſenſe; no Doctrines of Perfection to confound and cheat us, no narrow, illiberal,
+<pb n="35" facs="tcp:94767:18"/>Phariſaical Opinions to fill us with ſcruple. And as for the moral, habitual reſignation of the World it is every way our intereſt. To be looſe and free, to uſe it as if we uſed it not, to will what God wills, and to be content with ſuch a mixture of Good and Evil as infinite Wiſdom ſhall determine to us, is the only way to be happy. But to devote our ſelves to the world, to govern our lives careleſly, to ſin preſumptuouſly, to neglect our ſouls, to for<g ref="char:EOLhyphen"/>feit our intereſt in the favour of God, and in<g ref="char:EOLhyphen"/>cur the puniſhment of Hell, is ſuch a Cala<g ref="char:EOLhyphen"/>mity as can never be recompenſed: <hi>For what ſhall it profit a man to gain the World, and loſe his Soul?</hi>
+            </p>
+            <p>
+               <hi>Now to God the Father, Son, and Holy Ghoſt, be all honour, praiſe, and glory, now and for ever.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
